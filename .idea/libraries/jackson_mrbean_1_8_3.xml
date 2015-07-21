@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-mrbean-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/phoneApp/libs/jackson-mrbean-1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

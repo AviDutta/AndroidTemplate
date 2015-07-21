@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_divider_color">#ddddde</color>
+    <color name="orangePrimary">#FFBB33</color>
+    <color name="orangeDark">#EDB634</color>
+    <color name="lightGreenBackground">#DDF2E6</color>
+    <color name="lightOrangeBackground">#FEF6E0</color>
+</resources>
